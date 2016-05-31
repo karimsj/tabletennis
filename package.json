@@ -1,0 +1,45 @@
+{
+  "name": "tabletennis",
+  "version": "0.0.1",
+  "description": "A simple table tennis application for managing players' profile, scores, tournament and matches information. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karimsj/tabletennis.git"
+  },
+  "keywords": [
+    "Table",
+    "Tennis",
+    "Ping",
+    "Pong",
+    "node",
+    "expressjs",
+    "mongo"
+  ],
+  "author": "Karim Jiwani <karimjiwani@hotmail.com, karimsj@gmail.com> (http://kjiwani.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/karimsj/tabletennis/issues"
+  },
+  "homepage": "https://github.com/karimsj/tabletennis#readme",
+  "dependencies": {
+    "angular": "^1.5.6",
+    "bootstrap": "^3.3.6",
+    "express": "^4.13.4",
+    "jquery": "^2.2.4",
+    "mongoose": "^4.4.19",
+    "react": "^15.1.0",
+    "react-dom": "^15.1.0"
+  },
+  "devDependencies": {
+    "babel-core": "^6.9.1",
+    "babel-loader": "^6.2.4",
+    "babel-preset-react": "^6.5.0",
+    "html-webpack-plugin": "^2.19.0",
+    "webpack": "^1.13.1",
+    "webpack-dev-server": "^1.14.1"
+  }
+}
